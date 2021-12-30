@@ -1,11 +1,11 @@
 ### Hi there, I'm Jesse - aka [jaygrentree][website] 👋 
 
 [![Website](https://img.shields.io/website?label=jaygrentree.com&style=for-the-badge&url=https%3A%2F%2Fjaygrentree.com)](https://jaygrentree.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JayTheITGuy1983?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjaygrentree&screen_name=jaygrentree)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jaygrentree?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjaygrentree&screen_name=jaygrentree)
 
-## I'm a technology nerd using many different things.
+## I'm a Husband, Father, Developer, and Teacher!!
 
-
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -47,13 +47,13 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START
+<!-- YOUTUBE:START -->
 - [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
 - [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 - [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
 - [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
 - [STACKr News Weekly: Inspiring Dev Stories 🚀, Create 10k NFT Collection without Web3 Knowledge! 🤯](https://www.youtube.com/watch?v=z2vpcQjpqno)
- YOUTUBE:END -->
+<!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jaygrentree)
 
@@ -61,13 +61,13 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START
+<!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/jaygrentree/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - [Microinteractions: Password Validation Animation](https://dev.to/jaygrentree/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/jaygrentree/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/jaygrentree/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/jaygrentree/emmet-part-2-advanced-4c65)
- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jaygrentree.com)
 
