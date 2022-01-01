@@ -48,7 +48,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
+[//]: <> (- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
 - [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 - [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
 - [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U)
