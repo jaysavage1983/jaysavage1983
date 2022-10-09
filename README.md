@@ -11,19 +11,14 @@
 
 # 👋 Hi!
 
-I'm Jay Greentree [(Techno Tim)](https://technotim.live), a full stack software engineer, content creator, and a HomeLab enthusiast.   I create fun and easy to follow tech content on [YouTube](https://www.youtube.com/c/TechnoTimLive?sub_confirmation=1), host a community live stream on [Twitch](https://twitch.tv/technotim), and share tech related content on all social platforms.  I host a [wiki](https://wiki.technotim.live/) that is open for anyone to contribute from our [Discord Community](https://l.technotim.live/discord). I also create and contribute to many open source projects. Even my [documentation site](https://docs.technotim.live) for all my videos is open source! I really enjoy building open source software, creating and contributing to communities, teaching others through video content, and helping others via chat.
+I'm Jay Greentree, technology and music nerd, gamer, content creator
 
 # 🧑‍💻 My open source repos
+Coming soon
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaygreentree&repo=k3s-ansible&theme=radical)](https://github.com/jaygreentree/k3s-ansible)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaygreentree&repo=jaygreentree.github.io&theme=radical)](https://github.com/jaygreentree/jaygreentree.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaygreentree&repo=littlelink-server&theme=radical)](https://github.com/jaygreentree/littlelink-server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaygreentree&repo=launchpad&theme=radical)](https://github.com/jaygreentree/launchpad)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaygreentree&repo=techno-boto-discord&theme=radical)](https://github.com/jaygreentree/techno-boto-discord)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaygreentree&repo=techno-boto-twitch&theme=radical)](https://github.com/jaygreentree/techno-boto-twitch)
 
 # 📊 My Stats
 
-[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=jaygreentree&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/jaygreentree)
+[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jaygreentree&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/jaygreentree)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaygreentree&theme=dark&count_private=true&theme=radical)](https://github.com/jaygreentree)
