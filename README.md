@@ -13,10 +13,11 @@ I'm Jay Greentree, technology and music nerd, gamer, content creator
 
 # 🧑‍💻 My open source repos
 
-Coming soon
-
+Coming eventually
+<!-->
 # 📊 My Stats
 
 [![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jaygreentree&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/jaygreentree)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaygreentree&theme=dark&count_private=true&theme=radical)](https://github.com/jaygreentree)
+-->
