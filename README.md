@@ -9,7 +9,7 @@
 
 # 👋 Hi!
 
-I'm Jay Greentree, technology and music nerd, gamer, content creator
+I'm Jay, technology and music nerd, gamer, content creator
 
 # 🧑‍💻 My open source repos
 
