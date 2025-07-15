@@ -17,6 +17,6 @@ Coming eventually
 
 # 📊 My Stats
 
-[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jaygreentree&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/jaygreentree)
+[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jaygreentree&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/jaysavage1983)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaygreentree&theme=dark&count_private=true&theme=radical)](https://github.com/jaygreentree)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaysavage1983&theme=dark&count_private=true&theme=radical)](https://github.com/jaygreentree)
