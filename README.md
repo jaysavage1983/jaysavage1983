@@ -1,5 +1,5 @@
-[![GitHub followers](https://img.shields.io/github/followers/jaysavage1983?logo=GitHub&style=for-the-badge)](https://github.com/jaygreentree)
-[![GitHub Stars](https://img.shields.io/github/stars/jaysavage1983?logo=github&style=for-the-badge)](https://github.com/jaygreentree)
+[![GitHub followers](https://img.shields.io/github/followers/jaysavage1983?logo=GitHub&style=for-the-badge)](https://github.com/jaysavage1983)
+[![GitHub Stars](https://img.shields.io/github/stars/jaysavage1983?logo=github&style=for-the-badge)](https://github.com/jaysavage1983)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTIKg0f0UuTN9jxxuL-EnNA?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://www.youtube.com/c/TechnUCTIKg0f0UuTN9jxxuL-EnNAoTimLive?sub_confirmation=1)
 [![Twitter Followers](https://img.shields.io/twitter/follow/jaysavage1983?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/jaygjr2003)
 [![Twitch Status](https://img.shields.io/twitch/status/jaysavage1983?color=9147FF&logo=twitch&style=for-the-badge)](https://twitch.tv/jaygreentree)
